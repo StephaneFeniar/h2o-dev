@@ -431,3 +431,5 @@ def sd(data)    : return data.sd()
 def var(data)   : return data.var()
 def mean(data)  : return data.mean()
 def median(data): return data.median()
+
+def logical_negation(data) : return data.logical_negation()
